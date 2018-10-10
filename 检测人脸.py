@@ -62,3 +62,4 @@ if __name__ =='__main__':
     filename = 'girl.jpg'  
     result = detection(APP_ID, API_KEY, SECRET_KEY, filename, 10)  
     result_show(filename, result)  
+ 
